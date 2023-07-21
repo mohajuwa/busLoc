@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "912690721095",
+    "project_id": "modwir",
+    "storage_bucket": "modwir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912690721095:android:808161fffbb02a732adc62",
+        "android_client_info": {
+          "package_name": "com.example.loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912690721095-ljae1ddfjqo4liriqrps3tuaofhjncrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY8XR50ur8q1q3nlmsnO3k4H0aSE7D_1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912690721095-ljae1ddfjqo4liriqrps3tuaofhjncrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912690721095-cusfa7ej539k0vj89fd150psv2gph7ou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loc.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
